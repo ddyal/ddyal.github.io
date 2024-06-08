@@ -1,6 +1,6 @@
 title: "Derek Dyal"
 description: "Website for Derek Dyal, PhD Student of Economics"
-baseurl: ""
+baseurl: "https://ddyal.github.io"
 url: "https://ddyal.github.io"
 
 theme: minimal-mistakes-jekyll
