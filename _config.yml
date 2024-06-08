@@ -1,0 +1,27 @@
+title: "Derek Dyal"
+description: "Website for Derek Dyal, PhD Student of Economics"
+baseurl: ""
+url: "https://ddyal.github.io"
+
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: "Derek Dyal"
+  email: "ddyal@uga.edu"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+
+social:
+  - name: "GitHub"
+    url: "https://github.com/ddyal"
+  - name: "Twitter"
+    url: "https://twitter.com/DyalDerek"
