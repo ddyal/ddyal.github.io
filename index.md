@@ -1,5 +1,23 @@
 ---
-layout: home
+layout: single
+classes: wide
+title: Title?
+permalink: /
+author_profile: true
+author: Derek Dyal
 ---
-# Welcome to My Website
-This is the professional website of Derek Dyal.
+
+I am **Derek Dyala**, a Ph.D. student at the [University of Georgia](https://www.uga.edu/), [John Munro Godfrey, Sr. Department of Economics](https://www.terry.uga.edu/economics/). 
+
+---
+Selected works: 
+
+- [Test 1]() (_AnotherTest_)
+  
+---
+
+Reach me at <a href="mailto:ddyal@uga.edu">ddyal@uga.edu</a>
+
+<div style="border: 2px solid #4CAF50; padding: 10px; background-color: #E8F5E9; margin-bottom: 20px;">
+  <strong> My paper! </strong>
+</div>
