@@ -1,6 +1,10 @@
 ---
 layout: single
-title: "Research"
+title: Research
+permalink: /research/
 ---
-# Research
-Research from Derek Dyal.
+
+## Working Papers
+
+J. Huh, D. Dyal and C. Park. "Non-parametric Estimation of Single-Index Models in Scale-Space." Mar 2021 <br />
+*Journal of Statistical Computation and Simulation* 
