@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: 
+title: TITLE
 permalink: /
 author_profile: true
 author: Derek Dyal
