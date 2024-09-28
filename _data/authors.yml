@@ -1,0 +1,28 @@
+Derek Dyal:
+  name        : "Derek Dyal"
+  bio         : |
+    Ph.D. Student in Economics<br>
+    University of Georgia
+  avatar      : ""
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ddyal@uga.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ddyal.github.io/"
+    - label: "Github"
+      icon: "fab fa-github"
+      url: "https://github.com/ddyal"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=VXGniJkAAAAJ&hl=en"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "http://www.twitter.com/digidyal"
+    - label: "Department of Economics @ UGA"
+      icon: "fas fa-university"
+      url: "https://www.terry.uga.edu/departments/economics/"
+    - label: UGA Econometrics Reading Group
+      icon: "fa fa-bookmark"
+      url: "https://uga-metrics.github.io/"
