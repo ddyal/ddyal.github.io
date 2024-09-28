@@ -1,13 +1,13 @@
 ---
 layout: single
 classes: wide
-title: Title?
+title: 
 permalink: /
 author_profile: true
 author: Derek Dyal
 ---
 
-I am **Derek Dyala**, a Ph.D. student at the [University of Georgia](https://www.uga.edu/), [John Munro Godfrey, Sr. Department of Economics](https://www.terry.uga.edu/economics/). 
+I am **Derek Dyal**, a Ph.D. student at the [University of Georgia](https://www.uga.edu/), [John Munro Godfrey, Sr. Department of Economics](https://www.terry.uga.edu/economics/). 
 
 ---
 Selected works: 
