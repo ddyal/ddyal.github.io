@@ -3,9 +3,9 @@ main:
     url: /
   - title: "About"
     url: /about/
-  #- title: "CV"
-  #  url: "NA"
-  #  target: "_blank"
+  - title: "CV"
+    url: "NA"
+    target: "_blank"
   - title: "Research"
     url: /research/
   - title: "Teaching"
