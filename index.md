@@ -18,8 +18,4 @@ Selected works:
 
 Reach me at <a href="mailto:ddyal@uga.edu">ddyal@uga.edu</a>
 
-<div style="border: 2px solid #4CAF50; padding: 10px; background-color: #E8F5E9; margin-bottom: 20px;">
-  <strong> My paper! </strong>
-</div>
-
 <br>
