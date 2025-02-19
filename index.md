@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: Bienvenidos!
+title: 
 permalink: /
 author_profile: true
 author: Derek Dyal
