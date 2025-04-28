@@ -8,7 +8,7 @@ permalink: /teaching/
 * STAT 2000E: Introductory Statistics (Summer 2022)
 
 ## Teaching Assistantships
-<span style="color:firebrick;">_Outstanding Teaching Assistant Award, Center for Teaching and Learning, UGA_</span> 
+<span style="color:firebrick;">_Outstanding Teaching Assistant Award, Center for Teaching and Learning, UGA (2020-21)_</span> 
 * ECON 8080: Introduction to Econometrics (Graduate, Spring 2025)
 * ECON 4750/6750: Introduction to Econometrics (Undergraduate/Graduate, Fall 2024)
 * ECON 4010: Intermediate Microeconomics (Undergraduate, Summer 2024)
