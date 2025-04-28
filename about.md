@@ -4,4 +4,4 @@ title: "About"
 permalink: /about/
 ---
 
-Information about Derek Dyal.
+Not yet much information about Derek Dyal.
