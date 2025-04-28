@@ -9,5 +9,5 @@ permalink: /teaching/
 
 ## Teaching Assistantships
 <span style="color:firebrick;">_Outstanding Teaching Assistant Award, Center for Teaching and Learning, UGA_</span> 
-* ECON 8080: Introduction to Econometrics (Spring 2025)
-* ECON 4750/6750: Introduction to Econometrics (Fall 2024)
+* ECON 8080: Introduction to Econometrics (Graduate, Spring 2025)
+* ECON 4750/6750: Introduction to Econometrics (Undergraduate/Graduate, Fall 2024)
