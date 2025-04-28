@@ -3,5 +3,8 @@ layout: single
 title: "Teaching"
 permalink: /teaching/
 ---
-# Teaching
+# Instructor of Record
+Teaching from Derek Dyal.
+
+# Teaching Assistantship
 Teaching from Derek Dyal.
