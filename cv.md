@@ -5,4 +5,4 @@ title: CV
 permalink: /cv/
 ---
 
-NA.
+<a href="../files/ddyalCV.pdf" target="_blank">CV</a>
