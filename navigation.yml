@@ -4,7 +4,7 @@ main:
   - title: "About"
     url: /about/
   - title: "CV"
-    url: "NA"
+    url: /cv/
     target: "_blank"
   - title: "Research"
     url: /research/
