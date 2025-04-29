@@ -3,8 +3,8 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "CV"
-    url: /cv/
+  - title: "CV" 
+    url: "/derekdyalCV.pdf"
   - title: "Research"
     url: /research/
   - title: "Teaching"
