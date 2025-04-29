@@ -1,6 +1,7 @@
 ---
 layout: single
 title: CV
+classes: wide
 permalink: /cv/
 ---
 
