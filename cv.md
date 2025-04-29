@@ -8,4 +8,4 @@ permalink: /cv/
 ## Does this do anything at all?
 Who knows?
 
-<a href="../derekdyalCV.pdf" target="_blank">CV</a>
+<a href="derekdyalCV.pdf" target="_blank">CV</a>
