@@ -5,7 +5,7 @@ main:
     url: /about/
   - title: "CV"
     url: /cv/
-    target: "_blank"
+    #target: "_blank"
   - title: "Research"
     url: /research/
   - title: "Teaching"
