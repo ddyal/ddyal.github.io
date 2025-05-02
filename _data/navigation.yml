@@ -5,6 +5,7 @@ main:
     url: /about/
   - title: "CV"
     url: /files/derekdyalCV.pdf
+    target: "_blank"
   - title: "Research"
     url: /research/
   - title: "Teaching"
