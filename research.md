@@ -7,7 +7,7 @@ permalink: /research/
 ## Publications
 
 **Nonparametric Estimation of Single-Index Models in Scale-Space** <br /> with Jib Huh and Cheolwoo Park <br />
-*Journal of Statistical Computation and Simulation, vol. 91 (12), pp. 2414--2443, 2021* <br /> [link]([https://www.uga.edu/](https://www.tandfonline.com/doi/abs/10.1080/00949655.2021.1898610))
+*Journal of Statistical Computation and Simulation, vol. 91 (12), pp. 2414--2443, 2021* <br /> [link]((https://www.tandfonline.com/doi/abs/10.1080/00949655.2021.1898610))
 
 ## Working Papers
 
