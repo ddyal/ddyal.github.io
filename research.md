@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Publications
 
-**Non-parametric Estimation of Single-Index Models in Scale-Space** <br /> with Jib Huh and Cheolwoo Park <br />
+**Nonparametric Estimation of Single-Index Models in Scale-Space** <br /> with Jib Huh and Cheolwoo Park <br />
 *Journal of Statistical Computation and Simulation, vol. 91 (12), pp. 2414--2443, 2021* 
 
 ## Working Papers
