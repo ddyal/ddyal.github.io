@@ -6,10 +6,10 @@ permalink: /research/
 
 ## Publications
 
-Jib Huh, Derek Dyal and Cheolwoo Park. "Non-parametric Estimation of Single-Index Models in Scale-Space." Mar 2021 <br />
-*Journal of Statistical Computation and Simulation* 
+**Non-parametric Estimation of Single-Index Models in Scale-Space** <br /> with Jib Huh and Cheolwoo Park <br />
+*Journal of Statistical Computation and Simulation, 2021* 
 
 ## Working Papers
 
-Carolina Caetano, Gregorio Caetano, Brantly Callaway and Derek Dyal. "Causal Inference for Aggregated Treatment." <br /> 
-(*Submitted*)
+**Causal Inference for Aggregated Treatment** <br /> with Carolina Caetano, Gregorio Caetano, and Brantly Callaway <br /> 
+*Submitted, 2025*
