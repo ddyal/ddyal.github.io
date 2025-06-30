@@ -12,4 +12,4 @@ permalink: /research/
 ## Working Papers
 
 **Causal Inference for Aggregated Treatment** <br /> with Carolina Caetano, Gregorio Caetano, and Brantly Callaway <br /> 
-*Submitted, 2025*
+*Submitted, 2025* [[Supplementary Appendix]](/files/CCCD_2025_Supplementary_Appendix.pdf)
