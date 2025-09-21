@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: ERG
+title: Econometrics Reading Group
 permalink: /erg/
 ---
 (9/25/2025) Papers: 
