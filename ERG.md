@@ -6,7 +6,3 @@ permalink: /erg/
 ---
 
 More details found at the UGA Econometrics Reading Group website: <a href="https://uga-metrics.github.io/">UGA ERG</a>
-
-(9/25/2025) Papers: <br>
-<a href="../files/GPSS (2020).pdf" target="_blank">GPSS (2020)</a><br>
-<a href="../files/BHJ (2022).pdf" target="_blank">BHJ (2022)</a>
