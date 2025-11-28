@@ -2,6 +2,7 @@
 layout: single
 classes: wide
 title: "Causal Inference for Aggregated Treatment"
+subtitle: "Working paper with Caetano, Caetano, Callaway, and Dyal (2025)"
 permalink: /workingpapers/AggregatedTreatment
 ---
 
