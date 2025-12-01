@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "Beyond Parallel Trends: An Identification-Strategy-Robust Approach to Causal Inference with Panel Data"
+title: "Beyond parallel trends: An identification-strategy-robust approach to causal inference with panel data"
 permalink: /workingpapers/id-strat-robust-pdci
 ---
 <em>Brantly Callaway, Derek Dyal, Pedro H.C. Sant'Anna, and Emmanual S. Tsyawo (2025)</em>
