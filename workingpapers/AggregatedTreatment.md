@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "Causal Inference for Aggregated Treatment"
+title: "Causal inference for aggregated treatment"
 permalink: /workingpapers/AggregatedTreatment
 ---
 
