@@ -12,7 +12,7 @@ permalink: /research/
 ## Working Papers
 
 [**Causal Inference for Aggregated Treatment**](\files/CCCD_2025.pdf) <br /> with Carolina Caetano, Gregorio Caetano, and Brantly Callaway <br /> 
-*Submitted, 2025* [[arXiv](https://arxiv.org/pdf/2506.22885v2)] [[Supplementary Appendix](/files/CCCD_2025_Supplementary_Appendix.pdf)] [[Summary](/workingpapers/AggregatedTreatment.md)] 
+*Submitted, 2025* [[arXiv](https://arxiv.org/abs/2506.22885v2)] [[Supplementary Appendix](/files/CCCD_2025_Supplementary_Appendix.pdf)] [[Summary](/workingpapers/AggregatedTreatment.md)] 
 
 [**Beyond Parallel Trends: An Identification-Strategy-Robust Approach to Causal Inference with Panel Data**](\files/CDST_2025.pdf) <br /> with Brantly Callaway, Pedro H.C. Sant'Anna, and Emmanual Tsyawo <br /> 
 *2025* [[arXiv](https://arxiv.org/abs/2511.21977)] [[Summary](/workingpapers/Id-Strat-Robust-PDCI.md)]
