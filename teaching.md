@@ -9,7 +9,7 @@ permalink: /teaching/
 
 ## Teaching Assistantships
 <span style="color:firebrick;">_Outstanding Teaching Assistant Award, Center for Teaching and Learning, UGA (2020-21)_</span> 
-* ECON 8080: Introduction to Econometrics (Ph.D.), 2025
+* ECON 8080: Introduction to Econometrics (Ph.D.), 2025 & 2026
 * ECON 4750/6750: Introduction to Econometrics (Undergraduate/Master), 2024
 * ECON 4010: Intermediate Microeconomics (Undergraduate), 2024
 * BUSN 3000: Applied Statistics & Data Analysis (Undergraduate), 2021-2024
