@@ -8,6 +8,7 @@ permalink: /teaching/
 * STAT 2000E: Introductory Statistics (Summer 2022)
 
 ## Teaching Assistantships
+<span style="color:firebrick;">_Swift Undergraduate Teaching Fellowship Award, Terry College of Business, UGA (2026)_</span> 
 <span style="color:firebrick;">_Outstanding Teaching Assistant Award, Center for Teaching and Learning, UGA (2020-21)_</span> 
 * ECON 8080: Introduction to Econometrics (Ph.D.), 2025 & 2026
 * ECON 4750/6750: Introduction to Econometrics (Undergraduate/Master), 2024
