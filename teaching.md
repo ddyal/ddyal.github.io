@@ -3,16 +3,21 @@ layout: single
 title: "Teaching"
 permalink: /teaching/
 ---
-## Instructor of Record
-* ECON 4750: Introduction to Econometrics (Fall 2025)
-* STAT 2000E: Introductory Statistics (Summer 2022)
-
 ## Recognition
 <span style="color:firebrick;">_Swift Undergraduate Teaching Fellowship Award, Terry College of Business, UGA (2026)_</span> 
 
 <span style="color:firebrick;">_Outstanding Teaching Assistant Award, Center for Teaching and Learning, UGA (2020-21)_</span> 
 
+## Instructor of Record
+* ECON 4750: Introduction to Econometrics (Fall 2025)
+* STAT 2000E: Introductory Statistics (Summer 2022)
+
+## Guest Lecturer
+* An Introduction to Causal Inference: Potential Outcomes, Experiments, and Unconfoundedness
+* Augmented Inverse Propensity Score Weighting, Nonparametric Estimation, and Machine Learning (Random Forests)
+
 ## Teaching Assistantships
+* ECON 8110: Econometrics I (Ph.D.), 2026
 * ECON 8080: Introduction to Econometrics (Ph.D.), 2025 & 2026
 * ECON 4750/6750: Introduction to Econometrics (Undergraduate/Master), 2024
 * ECON 4010: Intermediate Microeconomics (Undergraduate), 2024
