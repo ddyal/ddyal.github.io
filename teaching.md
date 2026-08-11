@@ -13,8 +13,8 @@ permalink: /teaching/
 * STAT 2000E: Introductory Statistics (Summer 2022)
 
 ## Guest Lecturer
-* An Introduction to Causal Inference: Potential Outcomes, Experiments, and Unconfoundedness
-* Augmented Inverse Propensity Score Weighting, Nonparametric Estimation, and Machine Learning (Random Forests)
+* *An Introduction to Causal Inference: Potential Outcomes, Experiments, and Unconfoundedness*
+* *Augmented Inverse Propensity Score Weighting, Nonparametric Estimation, and Machine Learning (Random Forests)*
 
 ## Teaching Assistantships
 * ECON 8110: Econometrics I (Ph.D.), 2026
