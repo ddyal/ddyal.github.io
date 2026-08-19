@@ -18,7 +18,7 @@ permalink: /teaching/
 
 ## Teaching Assistantships
 * ECON 8110: Econometrics I (Ph.D.), 2026
-* ECON 8410: Labor I (Ph.D.), 2026
+* ECON 8410: Labor Economics I (Ph.D.), 2026
 * ECON 8080: Introduction to Econometrics (Ph.D.), 2025 & 2026
 * ECON 4750/6750: Introduction to Econometrics (Undergraduate/Master), 2024
 * ECON 4010: Intermediate Microeconomics (Undergraduate), 2024
