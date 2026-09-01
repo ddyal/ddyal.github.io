@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 ## Recognition
-<span style="color:firebrick;">_Swift Undergraduate Teaching Fellowship Award, Terry College of Business, UGA (2026)_</span> 
+<span style="color:darkgoldenrod;">_Swift Undergraduate Teaching Fellowship Award, Terry College of Business, UGA (2026)_</span> 
 
 <span style="color:firebrick;">_Outstanding Teaching Assistant Award, Center for Teaching and Learning, UGA (2020-21)_</span> 
 
